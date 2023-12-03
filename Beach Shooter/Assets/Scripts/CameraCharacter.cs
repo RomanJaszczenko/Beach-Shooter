@@ -10,7 +10,7 @@ public class CameraCharacter : MonoBehaviour
 {
     [SerializeField] private float spawnHelper = 4.5f;
     [SerializeField] private GameObject objPrefab;
-    [SerializeField] private float ballForce = 700;
+    [SerializeField] private float ballForce = 700f;
     [SerializeField] private float ballCount;
     [SerializeField] private float camMove;
 
