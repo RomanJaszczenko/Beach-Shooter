@@ -3,6 +3,7 @@ using UnityEngine.UI;
 using DG.Tweening;
 using TMPro;
 using UnityEngine.SceneManagement;
+using System;
 using System.Collections;
 
 public class CameraCharacter : MonoBehaviour
